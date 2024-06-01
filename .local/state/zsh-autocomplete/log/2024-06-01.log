@@ -1,0 +1,2 @@
+compadd:shift:31: shift count must be <= $#
+compadd:shift:31: shift count must be <= $#
